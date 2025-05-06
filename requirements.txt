@@ -1,0 +1,23 @@
+# requirements.txt
+# Paquets essentiels
+pandas
+numpy
+scikit-learn
+imbalanced-learn
+xgboost
+
+# Visualisation et analyse
+matplotlib
+seaborn
+plotly
+jupyter
+notebook
+ipywidgets
+
+# Préprocessing et feature engineering
+category-encoders
+scipy
+tqdm
+
+# Génération de données synthétiques
+faker
